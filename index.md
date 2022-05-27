@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Star Wars: Revenge of the Sith is an outstanding film and I will die on this hill.
